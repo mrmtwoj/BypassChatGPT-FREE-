@@ -1,4 +1,4 @@
-# Enable Chat Submit Button — Tampermonkey Script
+# Enable Chat Submit Button (ACYBER Team Method)
 
 ![Screenshot](bypass.png)
 
