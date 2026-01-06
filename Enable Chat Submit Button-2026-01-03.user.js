@@ -28,4 +28,8 @@
         setTimeout(enableSubmitButton, 3000); 
     });
 
+    window.addEventListener('load', function() {
+        setInterval(enableSubmitButton, 3000);
+    });
+    
 })();
