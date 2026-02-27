@@ -1,5 +1,5 @@
-# Enable Chat Submit Button (ACYBER Team Method)
-
+# Why shouldn’t we use the free version of ChatGPT?
+Even ChatGPT Pro 5 can be accessed for free forever using a new 2026 workaround.
 ![Screenshot](bypass.png)
 
 A simple Tampermonkey userscript to enable the **Chat Submit** button on GPT-powered pages.
